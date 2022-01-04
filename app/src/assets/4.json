@@ -1,0 +1,24 @@
+{
+  "name": "scotchegg Red",
+  "symbol": "egg4",
+  "description": "Single image from a collection of 9 scotchegg master pieces",
+  "image": "4.png",
+  "collection": {
+    "name": "scotchegg genesis",
+    "family": "scotcheggs"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "N5zEYEBe2AbZYnRYsoXYrrhUfgsRmQ7bRsuvBNoVaYQ",
+        "share": 100
+      }
+    ]
+  }
+}
